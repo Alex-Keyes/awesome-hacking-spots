@@ -23,6 +23,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Bellevue, WA](#bellevue-wa)
   - [Boston, MA](#boston-ma)
   - [Cambridge, MA](#cambridge-ma)
+  - [New York, NY](#New-YOrk-NY)
 - [Canada](#canada)
   - [Hamilton](#hamilton)
 - [Poland](#poland-)
@@ -472,6 +473,17 @@ Webpage: http://www.tosci.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
+
+## New York, NY <a id="New-York-NY"></a>
+
+#### Amazon Pop-UP Loft
+
+Webpage: https://aws.amazon.com/start-ups/loft/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/b7CXBFukNZM2) | Mon-Fri 10:00-6:00 
+
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
